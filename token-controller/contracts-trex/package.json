@@ -1,0 +1,20 @@
+{
+  "name": "@axia/token-controller-contracts-trex",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Unit de compilação da suíte ERC-3643 (T-REX/Tokeny + ONCHAINID) — OZ v4 / solc 0.8.17. Separado do unit custom (OZ v5) por incompatibilidade de versão do OpenZeppelin.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.10"
+  },
+  "dependencies": {
+    "@onchain-id/solidity": "2.2.1",
+    "@openzeppelin/contracts": "4.9.6",
+    "@openzeppelin/contracts-upgradeable": "4.9.6",
+    "@tokenysolutions/t-rex": "4.1.6"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "137": {
+    "idFactoryAddress": "0x73Bef5d26cd2E86D486643Ede2E38A0B47ff4879",
+    "identityRegistryAddress": "0xf9fCD07aF57CD05F9C1fe26a25B56BF0e79E53ba",
+    "identityStorageAddress": "0x7Fbf878864ff2d17b77B4064641d75c8E6765116",
+    "claimIssuerAddress": "0xdCBB1b370a9b3A6B9B9d94cBa85B6CB887FAc181",
+    "trexFactoryAddress": "0xD85000f43a2a81B2DB13C24d38A1bBbAf4636A31",
+    "complianceAddress": "0x7E126a6b0A36Cf2ba3c3CEFbed78D7189D0f984A",
+    "kycClaimTopic": "1"
+  }
+}

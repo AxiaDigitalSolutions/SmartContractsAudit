@@ -1,0 +1,10 @@
+node_modules/
+cache/
+artifacts/
+coverage/
+coverage.json
+typechain-types/
+.env
+
+trex-params.json
+.env.local
