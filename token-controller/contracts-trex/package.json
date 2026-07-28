@@ -8,8 +8,8 @@
     "test": "hardhat test"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.10"
+    "@nomicfoundation/hardhat-toolbox": "^7.0.0",
+    "hardhat": "^3.11.1"
   },
   "dependencies": {
     "@onchain-id/solidity": "2.2.1",
