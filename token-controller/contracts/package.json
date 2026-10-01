@@ -11,8 +11,8 @@
     "slither": "slither ."
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.10",
+    "@nomicfoundation/hardhat-toolbox": "^7.0.0",
+    "hardhat": "^3.18.0",
     "solhint": "^5.0.3"
   },
   "dependencies": {
